@@ -1,0 +1,10 @@
+flask
+dash
+pandas
+requests
+beautifulsoup4
+sqlalchemy
+psycopg2-binary
+schedule
+plotly
+gunicorn
